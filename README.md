@@ -19,7 +19,7 @@ Ale
 indentLine  
 Vim Bootstrap Updater  
 Vim Rhubarb  
-UWU (theme)  
+PaperColor    
 Lemonade  
 
 
@@ -30,4 +30,4 @@ Javascript
 
 
 ## Theme
-UWU  
+PaperColor set to darkmode 
