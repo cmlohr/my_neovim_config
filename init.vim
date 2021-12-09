@@ -51,7 +51,7 @@ Plug 'dense-analysis/ale'
 Plug 'Yggdroot/indentLine'
 Plug 'editor-bootstrap/vim-bootstrap-updater'
 Plug 'tpope/vim-rhubarb' " required by fugitive to :Gbrowse
-Plug 'mangeshrex/uwu.vim'
+Plug 'NLKNguyen/papercolor-theme'
 Plug 'https://github.com/pocke/lemonade'
 
 
@@ -168,13 +168,9 @@ set number
 
 
 let no_buffers_menu=1
-colorscheme uwu
-
-" To enable
-let g:UwuNR=1 " default
-
-" To disable
-let g:UwuNR=1
+"Theme
+set background=dark
+colorscheme PaperColor
 
 
 
