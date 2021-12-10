@@ -2,7 +2,7 @@
 My customized Neovim init.vim.  To use this configuration download the init.vim and place it in your /.config/nvim/ directory.
 
 ## Current Plugins
-Startify  
+Startify (custom) vim-startify-cat  
 Github Copilot    
 NERDTree  
 NERDTree Tabs  
