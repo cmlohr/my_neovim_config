@@ -34,7 +34,7 @@ call plug#begin(expand('~/.config/nvim/plugged'))
 "*****************************************************************************
 "" Plug install packages
 "*****************************************************************************
-Plug 'mhinz/vim-startify'
+Plug 'cmlohr/vim-startify-cat'
 Plug 'github/copilot.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'jistr/vim-nerdtree-tabs'
