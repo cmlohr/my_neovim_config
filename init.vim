@@ -53,6 +53,7 @@ Plug 'editor-bootstrap/vim-bootstrap-updater'
 Plug 'tpope/vim-rhubarb' " required by fugitive to :Gbrowse
 Plug 'NLKNguyen/papercolor-theme'
 Plug 'https://github.com/pocke/lemonade'
+Plug 'JuliaEditorSupport/julia-vim'
 
 
 
